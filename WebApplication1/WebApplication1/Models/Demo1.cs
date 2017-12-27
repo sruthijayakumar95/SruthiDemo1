@@ -11,5 +11,7 @@ namespace WebApplication1.Models
         public string Name { get; set; }
         public string City { get; set; }
         public int Pincode { get; set; }
+        public int MyProperty { get; set; }
+        public int uygdfty { get; set; }
     }
 }
